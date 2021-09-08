@@ -96,11 +96,6 @@ const Modal = props => {
       </div>
 
       {/* <div className="mobile">
-<div className="header-top">
-
-</div>
-<p>hello</p>
-<h1>haopoppopfggfgo</h1>
                </div> */}
     </>
   )
